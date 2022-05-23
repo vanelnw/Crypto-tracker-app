@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&family=Work+Sans:wght@300;400;800&display=swap');
+@import "react-alice-carousel/lib/alice-carousel.css";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+a{
+  text-decoration: none;
+  color: gold;
+}
+
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon {
+  color: white !important;
+}
+
+.css-1d3z3hw-MuiOutlinedInput-notchedOutline {
+  border-color: aquamarine !important;
+}
+
+.css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root, .css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input,.css-g2z002-MuiSvgIcon-root-MuiPaginationItem-icon{
+  color: aquamarine !important;
+}
+.css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root.Mui-selected{
+  background-color: aquamarine !important;
+  color: black !important;
+}
+
+.css-yuzg60-MuiButtonBase-root-MuiPaginationItem-root, .css-1v2lvtn-MuiPaginationItem-root {
+  color: azure !important;
+}
+
+
+
